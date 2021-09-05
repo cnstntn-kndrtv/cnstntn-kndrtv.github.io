@@ -29,7 +29,7 @@ baseurl: ""
 
 # The language of the site layout › http://www.lingoes.net/en/translator/langcode.htm
 # Go to folder '_data/locales' to check the available language options
-lang: en
+lang: ru-RU
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Europe/Moscow
@@ -39,7 +39,7 @@ timezone: Europe/Moscow
 
 title: cnstntn.kndrtv # the main title
 
-tagline: My personal pages # it will display as the sub-title
+tagline: Some thoughts # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Some thoughts and projects.
@@ -50,8 +50,11 @@ url: "https://cnstntn-kndrtv.github.io"
 github:
   username: cnstntn-kndrtv # change to your github username
 
-twitter:
-  username: nope # change to your twitter username
+# twitter:
+#   username: nope # change to your twitter username
+
+instagram:
+  username: constantinstagram
 
 social:
   # Change to your full name.
@@ -62,6 +65,7 @@ social:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your twitter homepage
     - https://github.com/cnstntn-kndrtv # change to your github homepage
+    - https://www.instagram.com/constantinstagram/
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -98,7 +102,8 @@ theme_mode: # [light|dark]
 img_cdn: ""
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+# avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+avatar: assets/img/ava.jpeg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
