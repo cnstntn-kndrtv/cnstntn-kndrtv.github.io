@@ -50,8 +50,8 @@ url: "https://cnstntn-kndrtv.github.io"
 github:
   username: cnstntn-kndrtv # change to your github username
 
-# twitter:
-#   username: nope # change to your twitter username
+twitter:
+  username: nope # change to your twitter username
 
 social:
   # Change to your full name.
