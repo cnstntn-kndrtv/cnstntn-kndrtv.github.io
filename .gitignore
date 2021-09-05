@@ -1,5 +1,10 @@
 #APP
-# add something
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
 log
 cache
 temp
