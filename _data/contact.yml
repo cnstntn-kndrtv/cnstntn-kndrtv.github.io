@@ -3,8 +3,17 @@
 - type: github
   icon: "fab fa-github-alt"
 
+- type: linkedin
+  icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
+  url: "www.linkedin.com/in/cnstntn-kndrtv"
+
+- type: stack-overflow
+  icon: "fab fa-stack-overflow"
+  url: "https://stackoverflow.com/users/13892210/cnstntn-kndrtv"
+
 - type: instagram
   icon: "fab fa-instagram"
+  url: "https://www.instagram.com/constantinstagram/"
 
 - type: email
   icon: "fas fa-envelope"
@@ -21,11 +30,4 @@
 #   type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your mastodon account page
-# -
-#   type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
-# -
-#   type: stack-overflow
-#   icon: 'fab fa-stack-overflow'
-#   url:  ''                  # Fill with your stackoverflow homepage
+
