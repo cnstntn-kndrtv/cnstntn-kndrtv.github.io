@@ -9,4 +9,4 @@ serve-draft:
 	bundle exec jekyll s --drafts
 
 serve:
-	bundle exec jekyll s --drafts
+	bundle exec jekyll s

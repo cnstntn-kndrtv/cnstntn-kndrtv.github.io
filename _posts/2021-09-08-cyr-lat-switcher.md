@@ -1,8 +1,8 @@
 ---
-title: Альтернатива Punto switcher - расширение для PopClip.
-author: я
+title: Альтернатива Punto Switcher - расширение для PopClip.
+author: Constantin Kondratyev
 date: 2021-09-08 09:37:00 +0300
-categories: MyStuff
+categories: [ Projects, Utils ]
 tags: [ soft, utils ]
 math: false  
 mermaid: false  
