@@ -6,6 +6,11 @@ categories: [ Projects, Utils ]
 tags: [ soft, utils ]
 math: false  
 mermaid: false  
+image:
+  src: /assets/img/posts/hello_world.jpg
+  width: 1000   # in pixels
+  height: 400   # in pixels
+  alt: hello цщкда
 ---
 
  
