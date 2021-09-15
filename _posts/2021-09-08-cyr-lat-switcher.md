@@ -4,8 +4,8 @@ author: Constantin Kondratyev
 date: 2021-09-08 09:37:00 +0300
 categories: [ Projects, Utils ]
 tags: [ soft, utils ]
-math: false  
-mermaid: false  
+math: true  
+mermaid: true  
 image:
   src: /assets/img/posts/hello_world.jpg
   width: 1000   # in pixels

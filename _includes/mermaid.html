@@ -4,12 +4,12 @@
 
 <script src="https://cdn.jsdelivr.net/npm/mermaid@8/dist/mermaid.min.js"></script>
 <script>
-  $(function() {
-    let initTheme = "default";
+  $(function () {
+    let initTheme = "forest";
 
     if ($("html[mode=dark]").length > 0
       || ($("html[mode]").length == 0
-        && window.matchMedia("(prefers-color-scheme: dark)").matches ) ) {
+        && window.matchMedia("(prefers-color-scheme: dark)").matches)) {
       initTheme = "dark";
     }
 
@@ -18,7 +18,7 @@
     };
 
     /* Markdown converts to HTML */
-    $("pre").has("code.language-mermaid").each(function() {
+    $("pre").has("code.language-mermaid").each(function () {
       let svgCode = $(this).children().html();
       $(this).addClass("unloaded");
       $(this).after(`<div class=\"mermaid\">${svgCode}</div>`);
