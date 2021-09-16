@@ -6,11 +6,11 @@ categories: [ Blogging, Thoughts ]
 tags: [ SoLiD, SemanticWeb ]
 math: true  
 mermaid: true  
-# image:
-#   src: /assets/img/posts/solid_posplatform.jpg
-#   width: 1000   # in pixels
-#   height: 400   # in pixels
-#   alt: hello цщкда
+image:
+  src: /assets/img/posts/the_wall.jpg
+  width: 400   # in pixels
+  height: 160   # in pixels
+  alt: the wall
 ---
 
 Для тех кто не знаком, [SoLiD](https://solidproject.org) (Social Linked Data) - логичное продолжение идей Linked Data, Semantic Web и вот этого всего от Сэра Тима Бернерса-Ли.  

@@ -10,7 +10,7 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: Главная
+  home: Блог
   categories: Категории
   tags: Тэги
   archives: Архив
