@@ -1,7 +1,7 @@
 ---
 title: Конфиг Docker для Fuseki
 author: Cotes Chung
-date: 2019-09-20 11:33:00 +0800
+date: 2021-09-20 11:33:00 +0800
 categories: [ Projects, Utils ]
 tags: [ Docker, RDF, SemanticWeb, utils ]
 math: true
