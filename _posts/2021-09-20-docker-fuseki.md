@@ -23,7 +23,7 @@ image:
 graph
     agent((Агент)) --->|a| cls((owl:class))
     org((Организация)) --->|subClassOf| agent
-    ou((Организационная еденица)) --->|subClassOf| agent
+    ou((Организационное подразделение)) --->|subClassOf| agent
     post((Должность)) --->|a| cls
     post --->|Является должностью подразделения| ou
     ou --->|Является подразделением организации| org
