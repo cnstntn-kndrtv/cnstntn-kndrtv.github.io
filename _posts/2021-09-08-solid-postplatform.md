@@ -3,7 +3,7 @@ title: SoLiD и пост-платформы.
 author: Constantin Kondratyev
 date: 2021-09-15 09:37:00 +0300
 categories: [ Blogging, Thoughts ]
-tags: [ SoLiD, SemanticWeb ]
+tags: [ SoLiD, SemanticWeb, RDF ]
 math: true  
 mermaid: true  
 image:
