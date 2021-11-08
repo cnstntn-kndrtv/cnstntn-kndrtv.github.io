@@ -1,7 +1,7 @@
 ---
 title: Обновление расширения для PopClip.
 author: Constantin Kondratyev
-date: 2021-09-08 09:37:00 +0300
+date: 2021-11-08 09:37:00 +0300
 categories: [ Projects, Utils ]
 tags: [ soft, utils ]
 math: true  
