@@ -37,7 +37,9 @@ order: 1
 
 
 *Публикации:*  
+- [Ontology-based question answering over corporate structured data](https://arxiv.org/abs/2111.04507)  
+- [Онтологии: от текста к фактам](https://www.osp.ru/os/2020/04/13055699)  
 - «Identifying morphological properties of Russian words with the ontology-based text analyser» Ksenia Balysheva1*, Elena Kartashova2, Konstantin Kondratiev3, Aleksey Mikheev  
 - «OntoLex as a Model for Creating the Ontology-Based Diсtionary of Russian Grammatical Forms» Ksenia Balysheva, Elena Kartashova, Konstantin Kondratiev, Aleksey Mikheev  
-- [Онтологии: от текста к фактам](https://www.osp.ru/os/2020/04/13055699)  
+
 
