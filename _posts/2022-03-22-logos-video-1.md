@@ -1,5 +1,5 @@
 ---
-title: Видео с конференции "SmartGoPro"
+title: Видео с конференции SmartGoPro
 author: Constantin Kondratyev
 date: 2022-03-22 14:00:00 +0300
 categories: [ Projects, АрхиГраф.Логос ]
