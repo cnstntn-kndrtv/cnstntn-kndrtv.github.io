@@ -45,10 +45,10 @@ order: 1
 - Лекции по обработке естественного языка, работе с онтологиями. Марийский государственный университет.  
 - Подготовка учебной программы по компьютерной лингвистике. Марийский государственный университет.   
 
-*Публикации:*  
-- [Ontology-based question answering over corporate structured data. 2021 International Symposium on Knowledge, Ontology, and Theory (KNOTH)](https://ieeexplore.ieee.org/document/9685024)
+*Публикации, статьи:*  
+- [Ontology-based question answering over corporate structured data. 2021 International Symposium on Knowledge, Ontology, and Theory (KNOTH)](https://ieeexplore.ieee.org/document/9685024).  
 - [Ontology-based question answering over corporate structured data](https://arxiv.org/abs/2111.04507)  
-- [Онтологии: от текста к фактам](https://www.osp.ru/os/2020/04/13055699)  
+- [Онтологии: от текста к фактам](https://www.osp.ru/os/2020/04/13055699)
 - [«Identifying morphological properties of Russian words with the ontology-based text analyser» Ksenia Balysheva1*, Elena Kartashova2, Konstantin Kondratiev3, Aleksey Mikheev](https://www.semanticscholar.org/paper/IDENTIFYING-MORPHOLOGICAL-PROPERTIES-OF-RUSSIAN-THE-Balysheva-Kartashova/5125f1728630500809b23060779ada73c53dbbed)  
 - [«OntoLex as a Model for Creating the Ontology-Based Diсtionary of Russian Grammatical Forms» Ksenia Balysheva, Elena Kartashova, Konstantin Kondratiev, Aleksey Mikheev](https://www.semanticscholar.org/paper/LexInfo-as-a-Model-for-Creating-Ontology-Based-of-Balysheva-Kartashova/c06999c9bac033befeaff83f003c4d5a959d5366)  
 
