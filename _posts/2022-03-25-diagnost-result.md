@@ -1,7 +1,7 @@
 ---
 title: Анализ результатов диагностики
 author: Constantin Kondratyev
-date: 2022-03-25 14:00:00 +0300
+date: 2022-03-25 08:00:00 +0300
 categories: [ Projects, АрхиГраф.Логос ]
 tags: [ RDF, NLU, NER, велосипед ]
 math: false
