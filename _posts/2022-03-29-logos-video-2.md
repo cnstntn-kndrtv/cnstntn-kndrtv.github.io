@@ -1,5 +1,5 @@
 ---
-title: Еще одно видео о работе Архиграф.ЛОГОС.
+title: Еще одно видео о работе АрхиГраф.Логос.
 author: Constantin Kondratyev
 date: 2022-03-29 14:00:00 +0300
 categories: [ Projects, АрхиГраф.Логос ]
