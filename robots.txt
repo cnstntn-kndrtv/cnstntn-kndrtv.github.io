@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://cnstntn-kndrtv.github.io/sitemap.xml
